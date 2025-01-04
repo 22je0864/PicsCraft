@@ -23,5 +23,5 @@ A **photo editing** web application where users can upload, edit, and enhance im
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tanuvideepika/PicsCraft.git
+   git clone https://github.com/22je0864/PicsCraft.git
    cd PicsCraft
