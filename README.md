@@ -1,28 +1,27 @@
-# 🧠 **MoodPilot - Techquila Addicts** 🌟
+# 📸 **PicsCraft** 🎨
 
-A mental health-focused web application that helps users track their mood and suggests activities to improve their well-being. Created for **Hackfest 2023**.
+A **photo editing** web application where users can upload, edit, and enhance images with filters. Built with **Python**, **Flask**, and **HTML/CSS**.
 
 ## 🚀 Technologies Used
-| **Technology**     | **Description**                                  |
-|--------------------|--------------------------------------------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) | Front-end framework for dynamic UI              |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | Backend with Express to handle API requests     |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) | Database for storing user information           |
-| ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white) | UI components library for responsive design     |
+| **Technology**     | **Description**                                    |
+|--------------------|----------------------------------------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Programming language for backend logic            |
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) | Micro web framework for backend development       |
+| ![HTML](https://img.shields.io/badge/HTML-FF5722?style=flat&logo=html5&logoColor=white) | Front-end structure and layout                   |
+| ![CSS](https://img.shields.io/badge/CSS-2965F1?style=flat&logo=css3&logoColor=white) | Styling for user interface design                |
 
 ## 💡 Features
-- 📝 Log and track your mood.
-- 💡 Receive personalized activity suggestions based on your mood.
-- 🌱 Promotes mental health awareness and combating stigma.
+- 📸 Upload and display images.
+- 🖌️ Apply filters and basic editing features.
+- 🖼️ Simple and easy-to-use interface for photo manipulation.
 
 ## ⚙️ How to Run
 
 ### Prerequisites
-- 🟢 **Node.js** (v14 or higher)
-- 🔵 **MongoDB** (local or remote)
+- 🟢 **Python 3.x**
 
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tanuvideepika/MoodPilot_Techquila_Addicts.git
-   cd MoodPilot_Techquila_Addicts
+   git clone https://github.com/tanuvideepika/PicsCraft.git
+   cd PicsCraft
